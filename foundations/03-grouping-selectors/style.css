@@ -1,13 +1,14 @@
-button {
+.one,
+.two {
     font-size: 28px;
     font-family: "Helvetica", "Times New Roman", sans-serif;
 }
 
-#one {
+.one {
     color: white;
     background-color: black;
 }
 
-#two {
+.two {
     background-color: yellow;
 }
